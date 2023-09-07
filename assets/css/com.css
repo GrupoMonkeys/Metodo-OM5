@@ -23,26 +23,6 @@
   font-family: helvetica, arial, sans-serif;
 }
 
-
-
-body {
-  margin: 0;
-  font-size: 16px;
-}
-.corDoHeader {
-  display: flex;
-  height: 3em;
-  width: 100%;
-  justify-content: center;
-  align-items: center;
-  background-color: #C4170C;
-}
-
-.imagemHeader { 
-  height: 100%;
-  width: 7em;
-}
-
 .fb-comments {
   border: 1px solid #e9ebee;
   border-radius: 3px;
