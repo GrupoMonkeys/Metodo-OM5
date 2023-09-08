@@ -46,6 +46,40 @@ body {
   width: 7em;
 }
 
+.div_imagem_parceiro{
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  justify-content: center;
+}
+
+.imagem_parceiro{
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.div_video_player{
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+.div_img_loja_mobile{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+.img_loja_mobile{
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+
 .fb-comments {
   border: 1px solid #e9ebee;
   border-radius: 3px;
