@@ -46,20 +46,6 @@ body {
   width: 90%;
 }
 
-.div_buton_cta1{
-  display: flex;
-  margin-left: auto;
-  margin-right: auto;
-  width: 60%;
-  justify-content: center;
-}
-
-.mt-4 d-none{
-    width: 115%;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 .fb-comments {
   border: 1px solid #e9ebee;
   border-radius: 3px;
